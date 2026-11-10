@@ -1,0 +1,9 @@
+dataset/
+asistencia_*.csv
+modelo.joblib
+face_landmarker.task
+landmarks.jpg
+frame.jpg
+versiones.txt
+resultados_*.txt
+__pycache__/
